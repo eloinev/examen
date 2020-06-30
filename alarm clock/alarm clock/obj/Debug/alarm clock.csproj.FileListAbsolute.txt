@@ -13,3 +13,18 @@ C:\Users\annev\source\repos\alarm clock\alarm clock\obj\Debug\alarm clock.csproj
 C:\Users\annev\source\repos\alarm clock\alarm clock\obj\Debug\alarm clock.csproj.CoreCompileInputs.cache
 C:\Users\annev\source\repos\alarm clock\alarm clock\obj\Debug\alarm clock.exe
 C:\Users\annev\source\repos\alarm clock\alarm clock\obj\Debug\alarm clock.pdb
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\bin\Debug\alarm clock.exe.config
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\bin\Debug\alarm clock.exe
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\bin\Debug\alarm clock.pdb
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\bin\Debug\Interop.WMPLib.dll
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\obj\Debug\alarm clock.csprojAssemblyReference.cache
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\obj\Debug\Interop.WMPLib.dll
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\obj\Debug\alarm clock.csproj.ResolveComReference.cache
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\obj\Debug\alarm_clock.Form1.resources
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\obj\Debug\alarm_clock.Properties.Resources.resources
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\obj\Debug\alarm clock.csproj.GenerateResource.cache
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\obj\Debug\alarm clock.csproj.CoreCompileInputs.cache
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\obj\Debug\alarm clock.exe
+C:\Users\annev\OneDrive\Рабочий стол\exam\alarm clock\alarm clock\obj\Debug\alarm clock.pdb
